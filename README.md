@@ -27,8 +27,10 @@ Currently working in cybersecurity with hands-on experience in SOC operations, t
 
 ## Projects
 
-### Captura *(in development)*
-Screenshot and screen annotation tool built with Python and PyQt6. Lightweight, keyboard-friendly, built for productivity.
+### [Captura](https://catzuudon.github.io/captura/)
+Free, open-source screenshot tool with annotation and built-in on-device OCR for macOS, Windows and Linux. Built with Python and PyQt6. Lightweight, keyboard-friendly, built for productivity.
+
+[Website](https://catzuudon.github.io/captura/) | [Download](https://github.com/catzuudon/captura/releases/latest) | [Source](https://github.com/catzuudon/captura)
 
 ### CGEA Homes *(internal)*
 Housing management mobile application built with Expo and React Native.
@@ -42,7 +44,7 @@ Management information system for organizational operations.
 
 ## Currently Working On
 
-- Finishing **Captura** and prepping it for public release
+- Maintaining **[Captura](https://catzuudon.github.io/captura/)**, now released for macOS, Windows and Linux
 - Exploring more open-source tooling in the cybersecurity space
 
 ---
